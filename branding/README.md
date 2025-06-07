@@ -9,9 +9,13 @@ We use [Inter Tight](https://github.com/googlefonts/inter-gf-tight), and [Fluent
 For chinese and japanese [MiSans](https://hyperos.mi.com/font/en/) is used as a fallback
 ## Logos
 We have two logos<br>
-The icon which is avalible as a [png](https://glideclient.github.io/data/branding/glideicon.png) or [svg](https://glideclient.github.io/data/branding/glideicon.svg) <br>
+The icon (symbol) which is avalible as a [png](https://glideclient.github.io/data/branding/glideicon.png) or [svg](https://glideclient.github.io/data/branding/glideicon.svg) <br>
 
-The Text and slogan which is avalible as a [png](https://glideclient.github.io/data/branding/glideclient.png) or [svg](https://glideclient.github.io/data/branding/glideclient.svg) <br>
+The Glide Text and slogan which is avalible as a [png](https://glideclient.github.io/data/branding/glideclient.png) or [svg](https://glideclient.github.io/data/branding/glideclient.svg) <br>
+
+The GlideClient logo and Word-Mark which is avalible as a [png](https://glideclient.github.io/data/branding/glideclientfull.png) or [svg](https://glideclient.github.io/data/branding/glideclientfull.svg) <br>
+
+
 
 
 
