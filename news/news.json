@@ -1,11 +1,19 @@
 {
     "news": [
-                {
+        {
+            "title": "Our Future",
+            "Author": "GlideClient Team",
+            "unixtime": 1777839234,
+            "subtitle": "Whats next???",
+            "body": "We are aware that many of you are waiting anxiously for the next update to GlideClient, and if you aren't in our discord you wont know even what we are working on... We have been working on a new main menu system, patching bugs, making the client more stable and adding new settings. We understand that the wait is frustrating however we are a small team, and we have real life stuff going on so development isnt going as fast as we would like, but we hope to get 7.3 ready quite soon, thanks for your patience, you guys are amazing for continuing to use Glide despite our terrible release schedule.", 
+            "img": ""
+        },
+        {
             "title": "Glide Client 7.2",
             "Author": "GlideClient Team",
             "unixtime": 1752105240,
             "subtitle": "We have released GlideClient 7.2.",
-            "body": "Today we are proud to announce that we are releasing GlideClient as a public release, we would like to thank everyone that participated in the GlideClient betas and we hope you will enjoy using the latest itteration of our client.", 
+            "body": "Today we are proud to announce that we are releasing GlideClient as a public release, we would like to thank everyone that participated in the GlideClient betas and we hope you will enjoy using the latest iteration of our client.", 
             "img": ""
         },
         {
