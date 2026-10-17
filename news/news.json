@@ -1,6 +1,14 @@
 {
     "news": [
         {
+            "title": "Official GlideClient Downloads.",
+            "Author": "Gatodepan",
+            "unixtime": 792252815,
+            "subtitle": "How to stay safe when downloading Glide.",
+            "body": "You should only download GlideClient from our offical sources which are our Github, our website, or our Discord. \n We do not currently distribute GlideClient on modding sites like 9Minecraft, CurseForge, Modrinth etc. \n If in doubt, go to GlideClient.com. \n Thanks -BreadCat", 
+            "img": ""
+        },
+        {
             "title": "Our Future",
             "Author": "GlideClient Team",
             "unixtime": 1777839234,
@@ -9,7 +17,7 @@
             "img": ""
         },
         {
-            "title": "Glide Client 7.2",
+            "title": "GlideClient 7.2",
             "Author": "GlideClient Team",
             "unixtime": 1752105240,
             "subtitle": "We have released GlideClient 7.2.",
@@ -17,11 +25,11 @@
             "img": ""
         },
         {
-            "title": "Glide Client Beta.",
+            "title": "GlideClient Beta.",
             "Author": "BreadCat",
             "unixtime": 1734487980,
             "subtitle": "We have released GlideClient as a beta.",
-            "body": "Today we are happy to say we have finaly released GlideClient into public beta, with this we expect there to be bugs however we have tried to ensure that the client is usable. We are looking forward to hearing user reactions to the glide beta and want to thank for using Glide.", 
+            "body": "Today we are happy to say we have finally released GlideClient into public beta, with this we expect there to be bugs however we have tried to ensure that the client is usable. We are looking forward to hearing user reactions to the glide beta and want to thank for using Glide.", 
             "img": ""
         },
         {
